@@ -1,0 +1,8 @@
+Python:
+
+Implement stack and Queue in python with only user defined functions. (Program stops when the user exits).Stack must contain these functions Push,Pop,List the top element.Queue must contain Enqueue,Dequeue,Pop,List the front element.Also implement logging after every change in the stack/Queue
+
+Raise a custom exception in function and catch it in the caller function
+
+
+
